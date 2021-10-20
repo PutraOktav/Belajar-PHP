@@ -1,5 +1,7 @@
 <?php 
 
-require_once 'core/App.php';
-require_once 'core/Contoller.php';
+require_once '../app/init.php';
+
+$app = new App;
+
 ?>
